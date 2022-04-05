@@ -7,7 +7,6 @@ Androspy|Androspy|null|https://github.com/TunisianEagles/Androspy.git|git|git
 AutoPixieWps|AutoPixieWps|null|https://github.com/nxxxu/AutoPixieWps.git|git|python,git
 Automater|TekDefense-Automater|information_gathering|https://github.com/1aN0rmus/TekDefense-Automater.git|git|python,git
 Auxscan|Auxscan|null|https://github.com/Gameye98/Auxscan.git|git|python,git
-BAF|BAF|null|https://github.com/engMaher/BAF.git|git|python,git
 BadMod|BadMod|null|https://github.com/MrSqar-Ye/BadMod.git|git|php,git
 BeeLogger|BeeLogger|null|https://github.com/4w4k3/BeeLogger.git|git|python,git
 Black-Hydra|Black-Hydra|null|https://github.com/Gameye98/Black-Hydra.git|git|python,git
@@ -49,7 +48,7 @@ GoblinWordGenerator|GoblinWordGenerator|null|https://github.com/UndeadSec/Goblin
 GoldenEye|GoldenEye|stress_testing|https://github.com/jseidl/GoldenEye.git|git|python,git
 HT-WPS-Breaker|HT-WPS-Breaker|null|https://github.com/SilentGhostX/HT-WPS-Breaker.git|git|git
 Hash-Buster|Hash-Buster|password_attack|https://github.com/UltimateHackers/Hash-Buster.git|git|python,git
-HiddenEye|HiddenEye|null|https://github.com/DarkSecDevelopers/HiddenEye.git|git|python,git
+HiddenEye|HiddenEye|null|https://gitlab.com/An0nUD4Y/hiddeneye|git|python,git
 Hunner|Hunner|null|https://github.com/b3-v3r/Hunner.git|git|python,git
 IP-Tracer|IP-Tracer|information_gathering,ip_tracking|https://github.com/Rajkumrdusad/IP-Tracer|git|php,git
 IPGeoLocation|IPGeoLocation|ip_tracking|https://github.com/maldevel/IPGeoLocation.git|git|python,git
@@ -224,7 +223,6 @@ kickthemout|kickthemout|wireless_testing|https://github.com/k4m4/kickthemout.git
 killchain|killchain|null|https://github.com/ruped24/killchain.git|git|python,git
 killerbee|killerbee|wireless_testing|https://github.com/riverloopsec/killerbee.git|git|python,clang,gcc,g++,git
 killshot|killshot|null|https://github.com/bahaabdelwahed/killshot.git|git|ruby,git
-koadic|koadic|null|https://github.com/zerosum0x0/koadic.git|git|python,git
 kwetza|kwetza|null|https://github.com/sensepost/kwetza.git|git|python,git
 leviathan|leviathan|null|https://github.com/tearsecurity/leviathan.git|git|python,git
 lscript|lscript|null|https://github.com/arismelachroinos/lscript.git|git|git
@@ -316,7 +314,6 @@ trackout|trackout|information_gathering,ip_tracking|https://github.com/abaykan/t
 trape|trape|ip_tracking|https://github.com/boxug/trape.git|git|python,git
 trojanizer|trojanizer|null|https://github.com/r00t-3xp10it/trojanizer.git|git|git
 txtool|txtool|exploitation_tools|https://github.com/kuburan/txtool.git|git|python,git
-uidsploit|uidsploit|null|https://github.com/siruidops/uidsploit.git|git|git
 volatility|volatility|forensics_tools|https://github.com/volatilityfoundation/volatility.git|git|python,git
 w3af|w3af|web_hacking|https://github.com/andresriancho/w3af.git|git|python,git
 w3m|w3m|package|null|package_manager|null
@@ -354,7 +351,7 @@ edb-debugger|edb-debugger|reverse_engineering|null|package_manager|null
 zVirus-Gen|zVirus-Gen|null|https://github.com/ZechBron/zVirus-Gen.git|git|git
 nasm|nasm|programming_language|null|package_manager|null
 Keylogger|Keylogger|null|https://github.com/aydinnyunus/Keylogger.git|git|python,git
-XLR8_BOMBER|XLR8_BOMBER|null|https://github.com/anubhavanonymous/XLR8_BOMBER.git|git|git
+XLR8_BOMBER|XLR8_BOMBER|null|https://github.com/sonudohare85/XLR8_BOMBER|git|git
 b0mb3r|b0mb3r|null|https://github.com/Denishnc/b0mb3r.git|git|python,git
 Tbomb|Tbomb|null|https://github.com/TheSpeedX/TBomb.git|git|python,git
 flashsploit|flashsploit|exploitation_tools|https://github.com/thewhiteh4t/flashsploit.git|git|python,git
@@ -370,7 +367,6 @@ katoolin|katooling|null|https://github.com/LionSec/katoolin.git|git|python2,git
 SARA|SARA|null|https://github.com/termuxhackers-id/SARA.git|git|python,git
 zphisher|zphisher|information_gathering|https://github.com/htr-tech/zphisher.git|git|php,nodejs,git
 check-ip|check-ip|information_gathering|https://github.com/1RaY-1/check-ip.git|git|gcc,git
-Mr-DDos|Mr-DDos|ddos|https://github.com/OnlineHacKing/Mr-DDos.git|git|python2,perl,git
 MHDDoS|MHDDoS|ddos|https://github.com/MHProDev/MHDDoS.git|git|python,git
 nexphisher|nexphisher|information_gathering|https://github.com/htr-tech/nexphisher.git|git|git,php,curl
 blackeye|blackeye|null|https://github.com/An0nUD4Y/blackeye.git|git|wget,unzip,curl,php,git
@@ -410,3 +406,9 @@ wig|wig|web_hacking|null|package_manager|null
 fcrackzip|fcrackzip|password_attack|null|package_manager|null
 ophcrack|ophcrack|password_attack|null|package_manager|null
 webshells|webshells|web_hacking|https://github.com/BlackArch/webshells.git|git|php,perl,gcc,git
+evilginx2|evilginx2|null|https://github.com/kgretzky/evilginx2.git|git|make,git
+android_hid|android_hid|null|https://github.com/androidmalware/android_hid.git|git|git
+zenmap-linux-installer|zenmap-linux-installer|information_gathering,vulnerability_scanner|https://github.com/1RaY-1/zenmap-linux-installer.git|git|nmap,python3,git
+kalitorify|kalitorify|null|https://github.com/brainfucksec/kalitorify.git|git|tor,curl,make,git
+ZipBomb|ZipBomb|null|https://github.com/abdulfatir/ZipBomb.git|git|python2,git
+nmapAutomator|nmapAutomator|information_gathering,vulnerability_scanner|https://github.com/21y4d/nmapAutomator.git|git|nmap,ffuf,gobuster,git
